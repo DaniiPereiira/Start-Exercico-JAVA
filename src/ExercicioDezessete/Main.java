@@ -13,7 +13,7 @@ public class Main {
         List numeros = new ArrayList<>();
 
 
-        for (int i = 0; i<5; i++){
+        for (int i = 0; i<80; i++){
 
             numero = leitorScanner.nextInt();
           if (numero >= 10 && numero <=150){
